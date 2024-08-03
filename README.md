@@ -6,23 +6,23 @@ bunker-suplements
 
 Clintes:
 
-- [] Deve ser possivel cadastrar o nome do cliente
-- [] Deve ser possivel cadastrar o telefone do cliente
-- [] Deve ser possivel cadastrar o endereço do cliente
+- [x] Deve ser possivel cadastrar o nome do cliente
+- [x] Deve ser possivel cadastrar o telefone do cliente
+- [x] Deve ser possivel cadastrar o endereço do cliente
 
 Pedidos:
 
-- [] Deve ser possivel visualizar o pedido dos clientes (o cliente que comprou,
-  data que ele comprou, e o produto e quantidade)
+- [x] Deve ser possivel visualizar o pedido dos clientes (o cliente que comprou,
+      data que ele comprou, e o produto e quantidade)
 
 Produto:
 
-- [] Deve ser possivel cadastrar o produto (nome, valor, quantidade --> Lucro)
+- [x] Deve ser possivel cadastrar o produto (nome, valor, quantidade --> Lucro)
 
 Estoque:
 
-- [] Mostrar em uma tabela de quantos produtos tem
-- [] Remover produtos da tabela
+- [x] Mostrar em uma tabela de quantos produtos tem
+- [x] Remover produtos da tabela
 
 ## RNs (Regras de negócio)
 
